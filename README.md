@@ -1,2 +1,2 @@
 # lab1
-# Hello world!
+printf("Hello world!");
